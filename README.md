@@ -6,28 +6,6 @@
 
 ---
 
-# 📸 Demo
-
-## Prompt
-
-```
-A cute boy with pink hair and cat ears
-```
-
-↓
-
-**Generated Minecraft Skin**
-
-(생성 이미지 추가)
-
-↓
-
-**Minecraft Preview**
-
-(마인크래프트 적용 이미지 추가)
-
----
-
 # 📖 프로젝트 소개
 
 Minecraft 스킨은 일반 이미지와 달리 **64×64(또는 64×32)의 UV 전개도 규칙**을 반드시 따라야 합니다.
