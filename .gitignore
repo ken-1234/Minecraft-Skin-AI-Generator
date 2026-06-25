@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 대용량 모델 및 생성이미지 제외
+model/
+output/
+test_output/
+train_data/
+
+# Stable Diffusion WebUI 본체 제외 (코드가 아니므로 올리지 않음)
+stable-diffusion-webui/
+sd-scripts/
+
+# 파이썬 가상환경 및 캐시 파일 제외
+venv/
+__pycache__/
+*.safetensors
+*.ckpt
