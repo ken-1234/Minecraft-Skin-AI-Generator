@@ -6,28 +6,6 @@
 
 ---
 
-# 📸 Demo
-
-## Prompt
-
-```
-A cute boy with pink hair and cat ears
-```
-
-↓
-
-Generated Minecraft Skin
-
-(Add generated skin image)
-
-↓
-
-Minecraft Preview
-
-(Add in-game preview)
-
----
-
 # 📖 Overview
 
 Minecraft skins follow a strict **64×64 (or 64×32) UV layout**, making them fundamentally different from ordinary images.
